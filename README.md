@@ -47,29 +47,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 Object Detection & Counting System
-📌 **Tech:** Python, OpenCV, YOLO, SSD, Faster R-CNN  
-🔍 A real-time deep learning system that detects and counts multiple objects with high accuracy.  
-✔ Supports video streams  
-✔ Multiple DL models  
-✔ Optimized for real-time performance  
-
-🔗 *Repository:* `Coming Soon`
-
----
-
-### 🔹 CODEX – Online Compiler + AI Code Explanation
-📌 **Tech:** HTML, CSS, JavaScript, Python, ML  
-🧠 A full-stack web IDE that compiles code and explains logic using AI.  
-✔ Multi-language support  
-✔ Clean IDE UI  
-✔ AI-powered explanations  
-
-🔗 *Repository:* `Coming Soon`
-
----
 
 <details>
 <summary>📊 GitHub Statistics (Click to Expand)</summary>
@@ -88,13 +65,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ARUN-S-15&theme=radical&no-frame=true&margin-w=10"/>
-</p>
-
----
 
 ## ✍️ Developer Quote
 
