@@ -1,7 +1,6 @@
 <!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Arun%20S&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20there%20👋,%20I'm%20Arun%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<h1 align="center">Hi there 👋, I'm Arun S</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer;MLOps+Enthusiast;Full-Stack+Developer;Building+Intelligent+Systems" />
